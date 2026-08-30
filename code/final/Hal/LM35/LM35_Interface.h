@@ -1,0 +1,5 @@
+#ifndef LM35_INTERFACE
+#define LM35_INTERFACE
+
+
+#endif /* LM35_INTERFACE */

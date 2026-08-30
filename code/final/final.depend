@@ -1,0 +1,220 @@
+# depslib dependency file v1.0
+1788111568 source:c:\users\aruby\downloads\ff\final\fuse.c
+	<avr/io.h>
+
+1788111642 source:c:\users\aruby\downloads\ff\final\main.c
+	"Common/Definition.h"
+	"Mcal/GIE/GIE_Interface.h"
+	"Mcal/DIO/DIO_Interface.h"
+	"Mcal/Timer0/T0_Interface.h"
+	"Mcal/Timer1/T1_Interface.h"
+	"Hal/Segment/Segment_Interface.h"
+	"Hal/Button/Button_Interface.h"
+	"Hal/Buzzer/Buzzer_Interface.h"
+
+1788110399 c:\users\aruby\downloads\ff\final\common\definition.h
+
+1788110399 c:\users\aruby\downloads\ff\final\mcal\gie\gie_interface.h
+	"../../Common/BitMath.h"
+	"../Atmega32Register.h"
+	"GIE_Private.h"
+
+1788110399 c:\users\aruby\downloads\ff\final\common\bitmath.h
+
+1788112517 c:\users\aruby\downloads\ff\final\mcal\atmega32register.h
+	<stdint.h>
+
+1788110399 c:\users\aruby\downloads\ff\final\mcal\gie\gie_private.h
+
+1788110399 c:\users\aruby\downloads\ff\final\mcal\dio\dio_interface.h
+	<stdint.h>
+	"../../Common/BitMath.h"
+	"../../Common/Definition.h"
+	"../Atmega32Register.h"
+	"DIO_Private.h"
+	"DIO_Config.h"
+
+1788110399 c:\users\aruby\downloads\ff\final\mcal\dio\dio_private.h
+
+1788110399 c:\users\aruby\downloads\ff\final\mcal\dio\dio_config.h
+
+1788110399 c:\users\aruby\downloads\ff\final\mcal\timer0\t0_interface.h
+	<stdint.h>
+	"../../Common/BitMath.h"
+	"../../Common/Definition.h"
+	"../Atmega32Register.h"
+	"T0_Private.h"
+	"T0_Config.h"
+
+1788110399 c:\users\aruby\downloads\ff\final\mcal\timer0\t0_private.h
+	<stdint.h>
+
+1788110399 c:\users\aruby\downloads\ff\final\mcal\timer0\t0_config.h
+
+1788110399 c:\users\aruby\downloads\ff\final\mcal\timer1\t1_interface.h
+	<stdint.h>
+	"../../Common/BitMath.h"
+	"../../Common/Definition.h"
+	"../Atmega32Register.h"
+	"T1_Private.h"
+	"T1_Config.h"
+
+1788110399 c:\users\aruby\downloads\ff\final\mcal\timer1\t1_private.h
+
+1788110399 c:\users\aruby\downloads\ff\final\mcal\timer1\t1_config.h
+
+1788110399 c:\users\aruby\downloads\ff\final\hal\segment\segment_interface.h
+	<stdint.h>
+	"../../Common/BitMath.h"
+	"../../Common/Definition.h"
+	"../../Mcal/DIO/DIO_Interface.h"
+	"Segment_Private.h"
+	"Segment_Config.h"
+
+1788110399 c:\users\aruby\downloads\ff\final\hal\segment\segment_private.h
+	<stdint.h>
+
+1788110399 c:\users\aruby\downloads\ff\final\hal\segment\segment_config.h
+
+1788110399 c:\users\aruby\downloads\ff\final\hal\button\button_interface.h
+	<stdint.h>
+	"../../Common/BitMath.h"
+	"../../Common/Definition.h"
+	"../../Mcal/DIO/DIO_Interface.h"
+	"Button_Private.h"
+
+1788110399 c:\users\aruby\downloads\ff\final\hal\button\button_private.h
+
+1788110399 c:\users\aruby\downloads\ff\final\hal\buzzer\buzzer_interface.h
+	<stdint.h>
+	"../../Common/Definition.h"
+	"../../Common/BitMath.h"
+	"../../Mcal/DIO/DIO_Interface.h"
+	"Buzzer_Private.h"
+	"Buzzer_Config.h"
+
+1788110399 c:\users\aruby\downloads\ff\final\hal\buzzer\buzzer_private.h
+
+1788110399 c:\users\aruby\downloads\ff\final\hal\buzzer\buzzer_config.h
+
+1788110399 source:c:\users\aruby\downloads\ff\final\hal\button\button_program.c
+	"Button_Interface.h"
+
+1788110399 source:c:\users\aruby\downloads\ff\final\hal\buzzer\buzzer_program.c
+	"Buzzer_Interface.h"
+
+1788110399 source:c:\users\aruby\downloads\ff\final\hal\dc_motor\dcmotor_program.c
+
+1788110399 source:c:\users\aruby\downloads\ff\final\hal\keypad\keypad_program.c
+	"KeyPad_Interface.h"
+
+1788110399 c:\users\aruby\downloads\ff\final\hal\keypad\keypad_interface.h
+	<stdint.h>
+	"../../Common/BitMath.h"
+	"../../Common/Definition.h"
+	"../../Mcal/DIO/DIO_Interface.h"
+	"KeyPad_Private.h"
+	"KeyPad_Config.h"
+
+1788110399 c:\users\aruby\downloads\ff\final\hal\keypad\keypad_private.h
+
+1788110399 c:\users\aruby\downloads\ff\final\hal\keypad\keypad_config.h
+	"../../Mcal/DIO/DIO_Interface.h"
+
+1788110399 source:c:\users\aruby\downloads\ff\final\hal\lcd\lcd_program.c
+	"LCD_Interface.h"
+
+1788110399 c:\users\aruby\downloads\ff\final\hal\lcd\lcd_interface.h
+	<stdint.h>
+	<util/delay.h>
+	"../../Common/BitMath.h"
+	"../../Common/Definition.h"
+	"../../Mcal/DIO/DIO_Interface.h"
+	"LCD_Private.h"
+	"LCD_Config.h"
+
+1788110399 c:\users\aruby\downloads\ff\final\hal\lcd\lcd_private.h
+
+1788110399 c:\users\aruby\downloads\ff\final\hal\lcd\lcd_config.h
+	"../../Mcal/DIO/DIO_Interface.h"
+
+1788110399 source:c:\users\aruby\downloads\ff\final\hal\ldr\ldr_program.c
+
+1788110399 source:c:\users\aruby\downloads\ff\final\hal\led\led_program.c
+	"Led_Interface.h"
+
+1788110399 c:\users\aruby\downloads\ff\final\hal\led\led_interface.h
+	<stdint.h>
+	"../../Common/BitMath.h"
+	"../../Common/Definition.h"
+	"../../Mcal/DIO/DIO_Interface.h"
+	"Led_Private.h"
+	"Led_Config.h"
+
+1788110399 c:\users\aruby\downloads\ff\final\hal\led\led_private.h
+
+1788110399 c:\users\aruby\downloads\ff\final\hal\led\led_config.h
+
+1788110399 source:c:\users\aruby\downloads\ff\final\hal\lm35\lm35_program.c
+
+1788110399 source:c:\users\aruby\downloads\ff\final\hal\segment\segment_program.c
+	"Segment_Interface.h"
+
+1788110399 source:c:\users\aruby\downloads\ff\final\mcal\adc\adc_program.c
+	"ADC_Interface.h"
+
+1788110399 c:\users\aruby\downloads\ff\final\mcal\adc\adc_interface.h
+	"../../Common/BitMath.h"
+	"../../Common/Definition.h"
+	"../Atmega32Register.h"
+	<stdint.h>
+	"ADC_Private.h"
+	"ADC_Config.h"
+
+1788110399 c:\users\aruby\downloads\ff\final\mcal\adc\adc_private.h
+
+1788110399 c:\users\aruby\downloads\ff\final\mcal\adc\adc_config.h
+
+1788110399 source:c:\users\aruby\downloads\ff\final\mcal\dio\dio_program.c
+	"DIO_Interface.h"
+
+1788110399 source:c:\users\aruby\downloads\ff\final\mcal\exti\exti_program.c
+	"EXTI_Interface.h"
+
+1788110399 c:\users\aruby\downloads\ff\final\mcal\exti\exti_interface.h
+	<stdint.h>
+	"../../Common/BitMath.h"
+	"../../Common/Definition.h"
+	"../Atmega32Register.h"
+	"EXTI_Private.h"
+	"EXTI_Config.h"
+
+1788110399 c:\users\aruby\downloads\ff\final\mcal\exti\exti_private.h
+
+1788110399 c:\users\aruby\downloads\ff\final\mcal\exti\exti_config.h
+
+1788110399 source:c:\users\aruby\downloads\ff\final\mcal\gie\gie_program.c
+	"GIE_Interface.h"
+
+1788110399 source:c:\users\aruby\downloads\ff\final\mcal\timer0\t0_program.c
+	"T0_Interface.h"
+	<stddef.h>
+
+1788110399 source:c:\users\aruby\downloads\ff\final\mcal\timer2\t2_program.c
+	"T2_Interface.h"
+
+1788110399 c:\users\aruby\downloads\ff\final\mcal\timer2\t2_interface.h
+	<stdint.h>
+	"../../Common/BitMath.h"
+	"../../Common/Definition.h"
+	"../Atmega32Register.h"
+	"T2_Private.h"
+	"T2_Config.h"
+
+1788110399 c:\users\aruby\downloads\ff\final\mcal\timer2\t2_private.h
+
+1788110399 c:\users\aruby\downloads\ff\final\mcal\timer2\t2_config.h
+
+1788110399 source:c:\users\aruby\downloads\ff\final\mcal\timer1\t1_program.c
+	"T1_Interface.h"
+

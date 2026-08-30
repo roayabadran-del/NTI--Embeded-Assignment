@@ -1,0 +1,5 @@
+#ifndef DC_MOTOR_PRIVATE
+#define DC_MOTOR_PRIVATE
+
+
+#endif /* DC_MOTOR_PRIVATE */

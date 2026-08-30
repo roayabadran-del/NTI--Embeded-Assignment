@@ -1,0 +1,1171 @@
+Archive member included to satisfy reference by file (symbol)
+
+C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_umulhisi3.o)
+                              obj\Debug\main.o (__umulhisi3)
+C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_divmodsi4.o)
+                              obj\Debug\Hal\LCD\LCD_Program.o (__divmodsi4)
+C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_negsi2.o)
+                              C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_divmodsi4.o) (__negsi2)
+C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_exit.o)
+                              C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32.o (exit)
+C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_copy_data.o)
+                              obj\Debug\Hal\Segment\Segment_Program.o (__do_copy_data)
+C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_clear_bss.o)
+                              obj\Debug\main.o (__do_clear_bss)
+C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_udivmodsi4.o)
+                              C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_divmodsi4.o) (__udivmodsi4)
+C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+                              obj\Debug\Hal\LCD\LCD_Program.o (__ltsf2)
+C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                              obj\Debug\Hal\LCD\LCD_Program.o (__fixunssfsi)
+C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+                              C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o) (__fp_cmp)
+C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                              C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o) (__fp_splitA)
+C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                              C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o) (__fp_zero)
+C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+                              obj\Debug\Hal\LCD\LCD_Program.o (__gtsf2)
+C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                              obj\Debug\Hal\LCD\LCD_Program.o (__mulsf3)
+C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                              C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(mulsf3.o) (__mulsf3x)
+C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                              C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o) (__fp_inf)
+C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                              C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o) (__fp_nan)
+C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                              C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o) (__fp_pscA)
+C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                              C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o) (__fp_pscB)
+C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                              C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(mulsf3.o) (__fp_round)
+
+There are no discarded input sections
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00008000         xr
+data             0x00800060         0x00000800         rw!x
+eeprom           0x00810000         0x00000400         rw!x
+fuse             0x00820000         0x00000002         rw!x
+lock             0x00830000         0x00000400         rw!x
+signature        0x00840000         0x00000400         rw!x
+user_signatures  0x00850000         0x00000400         rw!x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32.o
+LOAD obj\Debug\fuse.o
+LOAD obj\Debug\Hal\Button\Button_Program.o
+LOAD obj\Debug\Hal\Buzzer\Buzzer_Program.o
+LOAD obj\Debug\Hal\DC_Motor\DCMotor_Program.o
+LOAD obj\Debug\Hal\KeyPad\KeyPad_Program.o
+LOAD obj\Debug\Hal\LCD\LCD_Program.o
+LOAD obj\Debug\Hal\LDR\LDR_Program.o
+LOAD obj\Debug\Hal\LED\Led_Program.o
+LOAD obj\Debug\Hal\LM35\LM35_Program.o
+LOAD obj\Debug\Hal\Segment\Segment_Program.o
+LOAD obj\Debug\main.o
+LOAD obj\Debug\Mcal\ADC\ADC_Program.o
+LOAD obj\Debug\Mcal\DIO\DIO_Program.o
+LOAD obj\Debug\Mcal\EXTI\EXTI_Program.o
+LOAD obj\Debug\Mcal\GIE\GIE_Program.o
+LOAD obj\Debug\Mcal\Timer0\T0_Program.o
+LOAD obj\Debug\Mcal\Timer1\T1_Program.o
+LOAD obj\Debug\Mcal\Timer2\T2_Program.o
+START GROUP
+LOAD C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a
+LOAD C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a
+LOAD C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libc.a
+LOAD C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libatmega32.a
+END GROUP
+                [0x00000000]                      __TEXT_REGION_ORIGIN__ = DEFINED (__TEXT_REGION_ORIGIN__)?__TEXT_REGION_ORIGIN__:0x0
+                [0x00008000]                      __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                [0x00800060]                      __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x800060
+                [0x00000800]                      __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                [0x00000400]                      __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x00000002]                      __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                        __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                        __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                        __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x2bea
+ *(.vectors)
+ .vectors       0x00000000       0x54 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x00000054                        . = ALIGN (0x2)
+                0x00000054                        __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000054        0x0 linker stubs
+ *(.trampolines*)
+                0x00000054                        __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem.*)
+                0x00000054                        . = ALIGN (0x2)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000054                        __ctors_start = .
+ *(.ctors)
+                0x00000054                        __ctors_end = .
+                0x00000054                        __dtors_start = .
+ *(.dtors)
+                0x00000054                        __dtors_end = .
+ SORT_BY_NAME(*)(.ctors)
+ SORT_BY_NAME(*)(.dtors)
+ *(.init0)
+ .init0         0x00000054        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32.o
+                0x00000054                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000054        0xc C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000060       0x16 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_copy_data.o)
+                0x00000060                __do_copy_data
+ .init4         0x00000076       0x10 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_clear_bss.o)
+                0x00000076                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000086        0x8 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32.o
+ *(.init9)
+ *(.text)
+ .text          0x0000008e        0x4 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32.o
+                0x0000008e                __vector_1
+                0x0000008e                __vector_12
+                0x0000008e                __bad_interrupt
+                0x0000008e                __vector_3
+                0x0000008e                __vector_13
+                0x0000008e                __vector_17
+                0x0000008e                __vector_19
+                0x0000008e                __vector_15
+                0x0000008e                __vector_14
+                0x0000008e                __vector_18
+                0x0000008e                __vector_20
+ .text          0x00000092        0x0 obj\Debug\fuse.o
+ .text          0x00000092       0x98 obj\Debug\Hal\Button\Button_Program.o
+                0x00000092                Btn_Init
+                0x000000e4                Btn_ReadState
+ .text          0x0000012a       0x76 obj\Debug\Hal\Buzzer\Buzzer_Program.o
+                0x0000012a                Buzzer_Init
+                0x00000158                Buzzer_On
+                0x0000017c                Buzzer_Off
+ .text          0x000001a0        0x0 obj\Debug\Hal\DC_Motor\DCMotor_Program.o
+ .text          0x000001a0       0x20 obj\Debug\Hal\KeyPad\KeyPad_Program.o
+                0x000001a0                KPD_Init
+                0x000001b0                KPD_GetPressedKey
+ .text          0x000001c0      0x94e obj\Debug\Hal\LCD\LCD_Program.o
+                0x000001c0                LCD_Init
+                0x00000740                LCD_SendCommand
+                0x00000786                LCD_WriteCharacter
+                0x000007cc                LCD_WriteString
+                0x00000828                LCD_MoveTo
+                0x00000966                LCD_WriteNumber
+                0x00000aa0                LCD_StoreSpecialCharacter
+ .text          0x00000b0e        0x0 obj\Debug\Hal\LDR\LDR_Program.o
+ .text          0x00000b0e       0xca obj\Debug\Hal\LED\Led_Program.o
+                0x00000b0e                Led_Init
+                0x00000b32                Led_On
+                0x00000b74                Led_Off
+                0x00000bb6                Led_Toggle
+ .text          0x00000bd8        0x0 obj\Debug\Hal\LM35\LM35_Program.o
+ .text          0x00000bd8       0x9c obj\Debug\Hal\Segment\Segment_Program.o
+                0x00000bd8                SSD_Init
+                0x00000bf6                SSD_DisplayNumber
+                0x00000c42                SSD_Off
+ .text          0x00000c74      0x328 obj\Debug\main.o
+                0x00000f08                main
+ .text          0x00000f9c      0x258 obj\Debug\Mcal\ADC\ADC_Program.o
+                0x00000f9c                ADC_Init
+                0x000010c2                ADC_ReadChannelPolling
+                0x00001144                ADC_StartConversionInterrupt
+                0x00001188                ADC_SetCallBack
+                0x000011a2                __vector_16
+ .text          0x000011f4      0x77a obj\Debug\Mcal\DIO\DIO_Program.o
+                0x000011f4                DIO_DirectionSelectforPin
+                0x00001402                DIO_DirectionSelectforGroup
+                0x00001478                DIO_WritePin
+                0x00001686                DIO_WriteGroup
+                0x000016fa                DIO_ReadPin
+                0x0000182c                DIO_ReadGroup
+                0x0000184c                DIO_TogglePin
+                0x00001958                DIO_ToggleGroup
+ .text          0x0000196e      0x166 obj\Debug\Mcal\EXTI\EXTI_Program.o
+                0x0000196e                EXTI_Init
+                0x00001a50                EXTI_Disable
+                0x00001ab2                __vector_2
+ .text          0x00001ad4       0x44 obj\Debug\Mcal\GIE\GIE_Program.o
+                0x00001ad4                GIE_Enable
+                0x00001af6                GIE_Disable
+ .text          0x00001b18      0x254 obj\Debug\Mcal\Timer0\T0_Program.o
+                0x00001b18                T0_Init
+                0x00001bf6                T0_SetCompareValue
+                0x00001c16                T0_GetCounterValue
+                0x00001c2c                T0_SetCounterValue
+                0x00001c4c                T0_SetOVFCallBack
+                0x00001c72                T0_SetCompareCallBack
+                0x00001c98                __vector_10
+                0x00001d02                __vector_11
+ .text          0x00001d6c      0x74c obj\Debug\Mcal\Timer1\T1_Program.o
+                0x00001d6c                T1_Init
+                0x00001e42                T1_DeInit
+                0x00001ed6                T1_Start
+                0x00001f0e                T1_Stop
+                0x00001f30                T1_SetTimerValue
+                0x00001f58                T1_GetTimerValue
+                0x00001f8e                T1_SetCompareValue
+                0x00001fd8                T1_GetCompareValue
+                0x00002036                T1_SetCompareOutputMode
+                0x000020c4                T1_SetICRValue
+                0x000020ec                T1_GetICRValue
+                0x00002122                T1_SetInputCaptureEdge
+                0x00002164                T1_InputCaptureNoiseCanceler
+                0x000021a6                T1_EnableInterrupt
+                0x00002238                T1_DisableInterrupt
+                0x000022ca                T1_SetCallBack
+                0x00002310                __vector_6
+                0x0000237a                __vector_7
+                0x000023e4                __vector_8
+                0x0000244e                __vector_9
+ .text          0x000024b8      0x458 obj\Debug\Mcal\Timer2\T2_Program.o
+                0x000024b8                T2_Init
+                0x000025be                T2_DeInit
+                0x0000260e                T2_Start
+                0x00002646                T2_Stop
+                0x00002668                T2_SetTimerValue
+                0x00002688                T2_GetTimerValue
+                0x000026ba                T2_SetCompareValue
+                0x000026da                T2_GetCompareValue
+                0x0000270c                T2_SetCompareOutputMode
+                0x00002756                T2_EnableInterrupt
+                0x000027a6                T2_DisableInterrupt
+                0x000027f6                T2_SetCallBack
+                0x0000283c                __vector_4
+                0x000028a6                __vector_5
+ .text          0x00002910        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_umulhisi3.o)
+ .text          0x00002910        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_divmodsi4.o)
+ .text          0x00002910        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_negsi2.o)
+ .text          0x00002910        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_exit.o)
+ .text          0x00002910        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_copy_data.o)
+ .text          0x00002910        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00002910        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text          0x00002910        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .text          0x00002910        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .text          0x00002910        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .text          0x00002910        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .text          0x00002910        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .text          0x00002910        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .text          0x00002910        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .text          0x00002910        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .text          0x00002910        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .text          0x00002910        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .text          0x00002910        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .text          0x00002910        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .text          0x00002910        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                0x00002910                        . = ALIGN (0x2)
+ *(.text.*)
+ .text.libgcc.mul
+                0x00002910       0x1e C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_umulhisi3.o)
+                0x00002910                __umulhisi3
+ .text.libgcc.div
+                0x0000292e        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc   0x0000292e        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.prologue
+                0x0000292e        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.builtins
+                0x0000292e        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fmul
+                0x0000292e        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fixed
+                0x0000292e        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.mul
+                0x0000292e        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.div
+                0x0000292e       0x2e C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_divmodsi4.o)
+                0x0000292e                __divmodsi4
+ .text.libgcc   0x0000295c        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.prologue
+                0x0000295c        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.builtins
+                0x0000295c        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.fmul
+                0x0000295c        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.fixed
+                0x0000295c        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.mul
+                0x0000295c        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.div
+                0x0000295c       0x10 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_negsi2.o)
+                0x0000295c                __negsi2
+ .text.libgcc   0x0000296c        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.prologue
+                0x0000296c        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.builtins
+                0x0000296c        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.fmul
+                0x0000296c        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.fixed
+                0x0000296c        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.mul
+                0x0000296c        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x0000296c        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x0000296c        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x0000296c        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x0000296c        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x0000296c        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x0000296c        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x0000296c        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x0000296c        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x0000296c        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x0000296c        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x0000296c        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x0000296c        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x0000296c        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x0000296c        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x0000296c        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x0000296c        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x0000296c        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x0000296c        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x0000296c        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x0000296c        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x0000296c        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.div
+                0x0000296c       0x44 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_udivmodsi4.o)
+                0x0000296c                __udivmodsi4
+ .text.libgcc   0x000029b0        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x000029b0        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x000029b0        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x000029b0        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x000029b0        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.avr-libc.fplib
+                0x000029b0        0xa C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+                0x000029b0                __nesf2
+                0x000029b0                __eqsf2
+                0x000029b0                __cmpsf2
+                0x000029b0                __ltsf2
+                0x000029b0                __lesf2
+ .text.avr-libc.fplib
+                0x000029ba       0x5e C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                0x000029ba                __fixunssfsi
+ .text.avr-libc.fplib
+                0x00002a18       0x48 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+                0x00002a18                __fp_cmp
+ .text.avr-libc.fplib
+                0x00002a60       0x44 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                0x00002a60                __fp_split3
+                0x00002a70                __fp_splitA
+ .text.avr-libc.fplib
+                0x00002aa4        0xe C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                0x00002aa4                __fp_zero
+                0x00002aa6                __fp_szero
+ .text.avr-libc.fplib
+                0x00002ab2        0xa C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+                0x00002ab2                __gesf2
+                0x00002ab2                __gtsf2
+ .text.avr-libc.fplib
+                0x00002abc        0x8 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                0x00002abc                __mulsf3
+ .text.avr-libc.fplib
+                0x00002ac4       0xd2 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                0x00002ae2                __mulsf3x
+                0x00002ae8                __mulsf3_pse
+ .text.avr-libc.fplib
+                0x00002b96        0xc C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                0x00002b96                __fp_inf
+ .text.avr-libc.fplib
+                0x00002ba2        0x6 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                0x00002ba2                __fp_nan
+ .text.avr-libc.fplib
+                0x00002ba8        0xe C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                0x00002ba8                __fp_pscA
+ .text.avr-libc.fplib
+                0x00002bb6        0xe C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                0x00002bb6                __fp_pscB
+ .text.avr-libc.fplib
+                0x00002bc4       0x22 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                0x00002bc4                __fp_round
+                0x00002be6                        . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00002be6        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_exit.o)
+                0x00002be6                _exit
+                0x00002be6                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00002be6        0x4 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+ *(.hightext)
+ *(.hightext*)
+ *(.progmemx.*)
+                0x00002bea                        . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+                0x00002bea                        _etext = .
+
+.data           0x00800060       0x14 load address 0x00002bea
+                0x00800060                        PROVIDE (__data_start = .)
+ *(.data)
+ .data          0x00800060        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32.o
+ .data          0x00800060        0x0 obj\Debug\fuse.o
+ .data          0x00800060        0x0 obj\Debug\Hal\Button\Button_Program.o
+ .data          0x00800060        0x0 obj\Debug\Hal\Buzzer\Buzzer_Program.o
+ .data          0x00800060        0x0 obj\Debug\Hal\DC_Motor\DCMotor_Program.o
+ .data          0x00800060        0x0 obj\Debug\Hal\KeyPad\KeyPad_Program.o
+ .data          0x00800060        0x0 obj\Debug\Hal\LCD\LCD_Program.o
+ .data          0x00800060        0x0 obj\Debug\Hal\LDR\LDR_Program.o
+ .data          0x00800060        0x0 obj\Debug\Hal\LED\Led_Program.o
+ .data          0x00800060        0x0 obj\Debug\Hal\LM35\LM35_Program.o
+ .data          0x00800060        0xa obj\Debug\Hal\Segment\Segment_Program.o
+ .data          0x0080006a        0x4 obj\Debug\main.o
+ .data          0x0080006e        0x0 obj\Debug\Mcal\ADC\ADC_Program.o
+ .data          0x0080006e        0x0 obj\Debug\Mcal\DIO\DIO_Program.o
+ .data          0x0080006e        0x0 obj\Debug\Mcal\EXTI\EXTI_Program.o
+ .data          0x0080006e        0x0 obj\Debug\Mcal\GIE\GIE_Program.o
+ .data          0x0080006e        0x0 obj\Debug\Mcal\Timer0\T0_Program.o
+ .data          0x0080006e        0x0 obj\Debug\Mcal\Timer1\T1_Program.o
+ .data          0x0080006e        0x0 obj\Debug\Mcal\Timer2\T2_Program.o
+ .data          0x0080006e        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_umulhisi3.o)
+ .data          0x0080006e        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_divmodsi4.o)
+ .data          0x0080006e        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_negsi2.o)
+ .data          0x0080006e        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_exit.o)
+ .data          0x0080006e        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_copy_data.o)
+ .data          0x0080006e        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_clear_bss.o)
+ .data          0x0080006e        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_udivmodsi4.o)
+ .data          0x0080006e        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .data          0x0080006e        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .data          0x0080006e        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .data          0x0080006e        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .data          0x0080006e        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .data          0x0080006e        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .data          0x0080006e        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .data          0x0080006e        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .data          0x0080006e        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .data          0x0080006e        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .data          0x0080006e        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .data          0x0080006e        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .data          0x0080006e        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ *(.data*)
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ .rodata        0x0080006e        0x6 obj\Debug\main.o
+ *(.rodata*)
+ *(.gnu.linkonce.r*)
+                0x00800074                        . = ALIGN (0x2)
+                0x00800074                        _edata = .
+                0x00800074                        PROVIDE (__data_end = .)
+
+.bss            0x00800074       0x16
+                0x00800074                        PROVIDE (__bss_start = .)
+ *(.bss)
+ .bss           0x00800074        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32.o
+ .bss           0x00800074        0x0 obj\Debug\fuse.o
+ .bss           0x00800074        0x0 obj\Debug\Hal\Button\Button_Program.o
+ .bss           0x00800074        0x0 obj\Debug\Hal\Buzzer\Buzzer_Program.o
+ .bss           0x00800074        0x0 obj\Debug\Hal\DC_Motor\DCMotor_Program.o
+ .bss           0x00800074        0x0 obj\Debug\Hal\KeyPad\KeyPad_Program.o
+ .bss           0x00800074        0x0 obj\Debug\Hal\LCD\LCD_Program.o
+ .bss           0x00800074        0x0 obj\Debug\Hal\LDR\LDR_Program.o
+ .bss           0x00800074        0x0 obj\Debug\Hal\LED\Led_Program.o
+ .bss           0x00800074        0x0 obj\Debug\Hal\LM35\LM35_Program.o
+ .bss           0x00800074        0x0 obj\Debug\Hal\Segment\Segment_Program.o
+ .bss           0x00800074        0x4 obj\Debug\main.o
+ .bss           0x00800078        0x0 obj\Debug\Mcal\ADC\ADC_Program.o
+ .bss           0x00800078        0x0 obj\Debug\Mcal\DIO\DIO_Program.o
+ .bss           0x00800078        0x0 obj\Debug\Mcal\EXTI\EXTI_Program.o
+ .bss           0x00800078        0x0 obj\Debug\Mcal\GIE\GIE_Program.o
+ .bss           0x00800078        0x4 obj\Debug\Mcal\Timer0\T0_Program.o
+ .bss           0x0080007c        0x9 obj\Debug\Mcal\Timer1\T1_Program.o
+ .bss           0x00800085        0x5 obj\Debug\Mcal\Timer2\T2_Program.o
+ .bss           0x0080008a        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_umulhisi3.o)
+ .bss           0x0080008a        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_divmodsi4.o)
+ .bss           0x0080008a        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_negsi2.o)
+ .bss           0x0080008a        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_exit.o)
+ .bss           0x0080008a        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_copy_data.o)
+ .bss           0x0080008a        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x0080008a        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_udivmodsi4.o)
+ .bss           0x0080008a        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .bss           0x0080008a        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .bss           0x0080008a        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .bss           0x0080008a        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .bss           0x0080008a        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .bss           0x0080008a        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .bss           0x0080008a        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .bss           0x0080008a        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .bss           0x0080008a        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .bss           0x0080008a        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .bss           0x0080008a        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .bss           0x0080008a        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .bss           0x0080008a        0x0 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ *(.bss*)
+ *(COMMON)
+                0x0080008a                        PROVIDE (__bss_end = .)
+                0x00002bea                        __data_load_start = LOADADDR (.data)
+                0x00002bfe                        __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x0080008a        0x0
+                [!provide]                        PROVIDE (__noinit_start = .)
+ *(.noinit .noinit.* .gnu.linkonce.n.*)
+                [!provide]                        PROVIDE (__noinit_end = .)
+                0x0080008a                        _end = .
+                [!provide]                        PROVIDE (__heap_start = .)
+                0x00000000                        __flmap_init_label = DEFINED (__flmap_noinit_start)?__flmap_noinit_start:0x0
+                0x00000000                        __flmap = DEFINED (__flmap)?__flmap:0x0
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                        __eeprom_end = .
+
+.fuse           0x00820000        0x2
+ *(.fuse)
+ .fuse          0x00820000        0x2 obj\Debug\fuse.o
+                0x00820000                __fuse
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x2f
+ *(.comment)
+ .comment       0x00000000       0x2f obj\Debug\fuse.o
+                                 0x30 (size before relaxing)
+ .comment       0x0000002f       0x30 obj\Debug\Hal\Button\Button_Program.o
+ .comment       0x0000002f       0x30 obj\Debug\Hal\Buzzer\Buzzer_Program.o
+ .comment       0x0000002f       0x30 obj\Debug\Hal\DC_Motor\DCMotor_Program.o
+ .comment       0x0000002f       0x30 obj\Debug\Hal\KeyPad\KeyPad_Program.o
+ .comment       0x0000002f       0x30 obj\Debug\Hal\LCD\LCD_Program.o
+ .comment       0x0000002f       0x30 obj\Debug\Hal\LDR\LDR_Program.o
+ .comment       0x0000002f       0x30 obj\Debug\Hal\LED\Led_Program.o
+ .comment       0x0000002f       0x30 obj\Debug\Hal\LM35\LM35_Program.o
+ .comment       0x0000002f       0x30 obj\Debug\Hal\Segment\Segment_Program.o
+ .comment       0x0000002f       0x30 obj\Debug\main.o
+ .comment       0x0000002f       0x30 obj\Debug\Mcal\ADC\ADC_Program.o
+ .comment       0x0000002f       0x30 obj\Debug\Mcal\DIO\DIO_Program.o
+ .comment       0x0000002f       0x30 obj\Debug\Mcal\EXTI\EXTI_Program.o
+ .comment       0x0000002f       0x30 obj\Debug\Mcal\GIE\GIE_Program.o
+ .comment       0x0000002f       0x30 obj\Debug\Mcal\Timer0\T0_Program.o
+ .comment       0x0000002f       0x30 obj\Debug\Mcal\Timer1\T1_Program.o
+ .comment       0x0000002f       0x30 obj\Debug\Mcal\Timer2\T2_Program.o
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x3c
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x3c C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32.o
+
+.gnu.build.attributes
+ *(.gnu.build.attributes .gnu.build.attributes.*)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x1d8
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x18 obj\Debug\fuse.o
+ .debug_aranges
+                0x00000018       0x20 obj\Debug\Hal\Button\Button_Program.o
+ .debug_aranges
+                0x00000038       0x20 obj\Debug\Hal\Buzzer\Buzzer_Program.o
+ .debug_aranges
+                0x00000058       0x20 obj\Debug\Hal\KeyPad\KeyPad_Program.o
+ .debug_aranges
+                0x00000078       0x20 obj\Debug\Hal\LCD\LCD_Program.o
+ .debug_aranges
+                0x00000098       0x20 obj\Debug\Hal\LED\Led_Program.o
+ .debug_aranges
+                0x000000b8       0x20 obj\Debug\Hal\Segment\Segment_Program.o
+ .debug_aranges
+                0x000000d8       0x20 obj\Debug\main.o
+ .debug_aranges
+                0x000000f8       0x20 obj\Debug\Mcal\ADC\ADC_Program.o
+ .debug_aranges
+                0x00000118       0x20 obj\Debug\Mcal\DIO\DIO_Program.o
+ .debug_aranges
+                0x00000138       0x20 obj\Debug\Mcal\EXTI\EXTI_Program.o
+ .debug_aranges
+                0x00000158       0x20 obj\Debug\Mcal\GIE\GIE_Program.o
+ .debug_aranges
+                0x00000178       0x20 obj\Debug\Mcal\Timer0\T0_Program.o
+ .debug_aranges
+                0x00000198       0x20 obj\Debug\Mcal\Timer1\T1_Program.o
+ .debug_aranges
+                0x000001b8       0x20 obj\Debug\Mcal\Timer2\T2_Program.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x28ad
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x4e6 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32.o
+ .debug_info    0x000004e6       0x9e obj\Debug\fuse.o
+ .debug_info    0x00000584      0x1c0 obj\Debug\Hal\Button\Button_Program.o
+ .debug_info    0x00000744      0x180 obj\Debug\Hal\Buzzer\Buzzer_Program.o
+ .debug_info    0x000008c4       0x98 obj\Debug\Hal\KeyPad\KeyPad_Program.o
+ .debug_info    0x0000095c      0x5b5 obj\Debug\Hal\LCD\LCD_Program.o
+ .debug_info    0x00000f11      0x1e2 obj\Debug\Hal\LED\Led_Program.o
+ .debug_info    0x000010f3      0x1bf obj\Debug\Hal\Segment\Segment_Program.o
+ .debug_info    0x000012b2      0x554 obj\Debug\main.o
+ .debug_info    0x00001806      0x374 obj\Debug\Mcal\ADC\ADC_Program.o
+ .debug_info    0x00001b7a      0x2c1 obj\Debug\Mcal\DIO\DIO_Program.o
+ .debug_info    0x00001e3b       0xd6 obj\Debug\Mcal\EXTI\EXTI_Program.o
+ .debug_info    0x00001f11       0x90 obj\Debug\Mcal\GIE\GIE_Program.o
+ .debug_info    0x00001fa1      0x227 obj\Debug\Mcal\Timer0\T0_Program.o
+ .debug_info    0x000021c8      0x3ef obj\Debug\Mcal\Timer1\T1_Program.o
+ .debug_info    0x000025b7      0x2f6 obj\Debug\Mcal\Timer2\T2_Program.o
+
+.debug_abbrev   0x00000000     0x11a9
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x4a3 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32.o
+ .debug_abbrev  0x000004a3       0x7f obj\Debug\fuse.o
+ .debug_abbrev  0x00000522       0xe5 obj\Debug\Hal\Button\Button_Program.o
+ .debug_abbrev  0x00000607       0xcc obj\Debug\Hal\Buzzer\Buzzer_Program.o
+ .debug_abbrev  0x000006d3       0x73 obj\Debug\Hal\KeyPad\KeyPad_Program.o
+ .debug_abbrev  0x00000746      0x163 obj\Debug\Hal\LCD\LCD_Program.o
+ .debug_abbrev  0x000008a9       0xcc obj\Debug\Hal\LED\Led_Program.o
+ .debug_abbrev  0x00000975       0xef obj\Debug\Hal\Segment\Segment_Program.o
+ .debug_abbrev  0x00000a64      0x135 obj\Debug\main.o
+ .debug_abbrev  0x00000b99      0x111 obj\Debug\Mcal\ADC\ADC_Program.o
+ .debug_abbrev  0x00000caa       0xb7 obj\Debug\Mcal\DIO\DIO_Program.o
+ .debug_abbrev  0x00000d61       0x9e obj\Debug\Mcal\EXTI\EXTI_Program.o
+ .debug_abbrev  0x00000dff       0x5a obj\Debug\Mcal\GIE\GIE_Program.o
+ .debug_abbrev  0x00000e59      0x12c obj\Debug\Mcal\Timer0\T0_Program.o
+ .debug_abbrev  0x00000f85      0x112 obj\Debug\Mcal\Timer1\T1_Program.o
+ .debug_abbrev  0x00001097      0x112 obj\Debug\Mcal\Timer2\T2_Program.o
+
+.debug_line     0x00000000     0x21a7
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000       0x1d C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32.o
+ .debug_line    0x0000001d       0x3f obj\Debug\fuse.o
+ .debug_line    0x0000005c       0xea obj\Debug\Hal\Button\Button_Program.o
+ .debug_line    0x00000146       0xa5 obj\Debug\Hal\Buzzer\Buzzer_Program.o
+ .debug_line    0x000001eb        0x0 obj\Debug\Hal\DC_Motor\DCMotor_Program.o
+ .debug_line    0x000001eb       0x67 obj\Debug\Hal\KeyPad\KeyPad_Program.o
+ .debug_line    0x00000252      0x603 obj\Debug\Hal\LCD\LCD_Program.o
+ .debug_line    0x00000855        0x0 obj\Debug\Hal\LDR\LDR_Program.o
+ .debug_line    0x00000855       0xf3 obj\Debug\Hal\LED\Led_Program.o
+ .debug_line    0x00000948        0x0 obj\Debug\Hal\LM35\LM35_Program.o
+ .debug_line    0x00000948       0xe4 obj\Debug\Hal\Segment\Segment_Program.o
+ .debug_line    0x00000a2c      0x2ef obj\Debug\main.o
+ .debug_line    0x00000d1b      0x2e2 obj\Debug\Mcal\ADC\ADC_Program.o
+ .debug_line    0x00000ffd      0x43c obj\Debug\Mcal\DIO\DIO_Program.o
+ .debug_line    0x00001439      0x121 obj\Debug\Mcal\EXTI\EXTI_Program.o
+ .debug_line    0x0000155a       0x79 obj\Debug\Mcal\GIE\GIE_Program.o
+ .debug_line    0x000015d3      0x1fe obj\Debug\Mcal\Timer0\T0_Program.o
+ .debug_line    0x000017d1      0x61a obj\Debug\Mcal\Timer1\T1_Program.o
+ .debug_line    0x00001deb      0x3bc obj\Debug\Mcal\Timer2\T2_Program.o
+
+.debug_frame    0x00000000      0xdd8
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x54 obj\Debug\Hal\Button\Button_Program.o
+ .debug_frame   0x00000054       0x74 obj\Debug\Hal\Buzzer\Buzzer_Program.o
+ .debug_frame   0x000000c8       0x54 obj\Debug\Hal\KeyPad\KeyPad_Program.o
+ .debug_frame   0x0000011c      0x10c obj\Debug\Hal\LCD\LCD_Program.o
+ .debug_frame   0x00000228       0x94 obj\Debug\Hal\LED\Led_Program.o
+ .debug_frame   0x000002bc       0x74 obj\Debug\Hal\Segment\Segment_Program.o
+ .debug_frame   0x00000330       0x54 obj\Debug\main.o
+ .debug_frame   0x00000384       0xd4 obj\Debug\Mcal\ADC\ADC_Program.o
+ .debug_frame   0x00000458      0x114 obj\Debug\Mcal\DIO\DIO_Program.o
+ .debug_frame   0x0000056c       0x7c obj\Debug\Mcal\EXTI\EXTI_Program.o
+ .debug_frame   0x000005e8       0x54 obj\Debug\Mcal\GIE\GIE_Program.o
+ .debug_frame   0x0000063c      0x19c obj\Debug\Mcal\Timer0\T0_Program.o
+ .debug_frame   0x000007d8      0x3a4 obj\Debug\Mcal\Timer1\T1_Program.o
+ .debug_frame   0x00000b7c      0x25c obj\Debug\Mcal\Timer2\T2_Program.o
+
+.debug_str      0x00000000     0x1455
+ *(.debug_str)
+ .debug_str     0x00000000      0x196 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32.o
+ .debug_str     0x00000196     0x12bf obj\Debug\fuse.o
+                                 0xd0 (size before relaxing)
+ .debug_str     0x00001455      0x20a obj\Debug\Hal\Button\Button_Program.o
+ .debug_str     0x00001455      0x1ad obj\Debug\Hal\Buzzer\Buzzer_Program.o
+ .debug_str     0x00001455       0x54 obj\Debug\Hal\DC_Motor\DCMotor_Program.o
+ .debug_str     0x00001455       0xde obj\Debug\Hal\KeyPad\KeyPad_Program.o
+ .debug_str     0x00001455      0x351 obj\Debug\Hal\LCD\LCD_Program.o
+ .debug_str     0x00001455       0x54 obj\Debug\Hal\LDR\LDR_Program.o
+ .debug_str     0x00001455      0x1c6 obj\Debug\Hal\LED\Led_Program.o
+ .debug_str     0x00001455       0x54 obj\Debug\Hal\LM35\LM35_Program.o
+ .debug_str     0x00001455      0x1eb obj\Debug\Hal\Segment\Segment_Program.o
+ .debug_str     0x00001455      0x6e2 obj\Debug\main.o
+ .debug_str     0x00001455      0x423 obj\Debug\Mcal\ADC\ADC_Program.o
+ .debug_str     0x00001455      0x283 obj\Debug\Mcal\DIO\DIO_Program.o
+ .debug_str     0x00001455      0x101 obj\Debug\Mcal\EXTI\EXTI_Program.o
+ .debug_str     0x00001455       0xda obj\Debug\Mcal\GIE\GIE_Program.o
+ .debug_str     0x00001455      0x213 obj\Debug\Mcal\Timer0\T0_Program.o
+ .debug_str     0x00001455      0x499 obj\Debug\Mcal\Timer1\T1_Program.o
+ .debug_str     0x00001455      0x393 obj\Debug\Mcal\Timer2\T2_Program.o
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_addr
+ *(.debug_addr)
+
+.debug_line_str
+                0x00000000      0x4a4
+ *(.debug_line_str)
+ .debug_line_str
+                0x00000000      0x4a4 obj\Debug\fuse.o
+                                 0x93 (size before relaxing)
+ .debug_line_str
+                0x000004a4      0x10e obj\Debug\Hal\Button\Button_Program.o
+ .debug_line_str
+                0x000004a4       0xfd obj\Debug\Hal\Buzzer\Buzzer_Program.o
+ .debug_line_str
+                0x000004a4       0x41 obj\Debug\Hal\DC_Motor\DCMotor_Program.o
+ .debug_line_str
+                0x000004a4       0xc5 obj\Debug\Hal\KeyPad\KeyPad_Program.o
+ .debug_line_str
+                0x000004a4      0x135 obj\Debug\Hal\LCD\LCD_Program.o
+ .debug_line_str
+                0x000004a4       0x38 obj\Debug\Hal\LDR\LDR_Program.o
+ .debug_line_str
+                0x000004a4       0xeb obj\Debug\Hal\LED\Led_Program.o
+ .debug_line_str
+                0x000004a4       0x3a obj\Debug\Hal\LM35\LM35_Program.o
+ .debug_line_str
+                0x000004a4      0x115 obj\Debug\Hal\Segment\Segment_Program.o
+ .debug_line_str
+                0x000004a4      0x1a0 obj\Debug\main.o
+ .debug_line_str
+                0x000004a4       0xc6 obj\Debug\Mcal\ADC\ADC_Program.o
+ .debug_line_str
+                0x000004a4       0xc6 obj\Debug\Mcal\DIO\DIO_Program.o
+ .debug_line_str
+                0x000004a4       0xbd obj\Debug\Mcal\EXTI\EXTI_Program.o
+ .debug_line_str
+                0x000004a4       0xb8 obj\Debug\Mcal\GIE\GIE_Program.o
+ .debug_line_str
+                0x000004a4       0xc8 obj\Debug\Mcal\Timer0\T0_Program.o
+ .debug_line_str
+                0x000004a4       0xc8 obj\Debug\Mcal\Timer1\T1_Program.o
+ .debug_line_str
+                0x000004a4       0xc8 obj\Debug\Mcal\Timer2\T2_Program.o
+
+.debug_loclists
+ *(.debug_loclists)
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_names
+ *(.debug_names)
+
+.debug_rnglists
+ *(.debug_rnglists)
+
+.debug_str_offsets
+ *(.debug_str_offsets)
+
+.debug_sup
+ *(.debug_sup)
+OUTPUT(bin\Debug\final.elf elf32-avr)
+LOAD linker stubs
+
+Cross Reference Table
+
+Symbol                                            File
+ADC_Init                                          obj\Debug\Mcal\ADC\ADC_Program.o
+ADC_ReadChannelPolling                            obj\Debug\Mcal\ADC\ADC_Program.o
+ADC_SetCallBack                                   obj\Debug\Mcal\ADC\ADC_Program.o
+ADC_StartConversionInterrupt                      obj\Debug\Mcal\ADC\ADC_Program.o
+Btn_Init                                          obj\Debug\Hal\Button\Button_Program.o
+                                                  obj\Debug\main.o
+Btn_ReadState                                     obj\Debug\Hal\Button\Button_Program.o
+                                                  obj\Debug\main.o
+Buzzer_Init                                       obj\Debug\Hal\Buzzer\Buzzer_Program.o
+                                                  obj\Debug\main.o
+Buzzer_Off                                        obj\Debug\Hal\Buzzer\Buzzer_Program.o
+                                                  obj\Debug\main.o
+Buzzer_On                                         obj\Debug\Hal\Buzzer\Buzzer_Program.o
+                                                  obj\Debug\main.o
+DIO_DirectionSelectforGroup                       obj\Debug\Mcal\DIO\DIO_Program.o
+                                                  obj\Debug\Hal\Segment\Segment_Program.o
+                                                  obj\Debug\Hal\LCD\LCD_Program.o
+DIO_DirectionSelectforPin                         obj\Debug\Mcal\DIO\DIO_Program.o
+                                                  obj\Debug\main.o
+                                                  obj\Debug\Hal\LED\Led_Program.o
+                                                  obj\Debug\Hal\LCD\LCD_Program.o
+                                                  obj\Debug\Hal\Buzzer\Buzzer_Program.o
+                                                  obj\Debug\Hal\Button\Button_Program.o
+DIO_ReadGroup                                     obj\Debug\Mcal\DIO\DIO_Program.o
+DIO_ReadPin                                       obj\Debug\Mcal\DIO\DIO_Program.o
+                                                  obj\Debug\Hal\Button\Button_Program.o
+DIO_ToggleGroup                                   obj\Debug\Mcal\DIO\DIO_Program.o
+DIO_TogglePin                                     obj\Debug\Mcal\DIO\DIO_Program.o
+                                                  obj\Debug\Hal\LED\Led_Program.o
+DIO_WriteGroup                                    obj\Debug\Mcal\DIO\DIO_Program.o
+                                                  obj\Debug\Hal\Segment\Segment_Program.o
+                                                  obj\Debug\Hal\LCD\LCD_Program.o
+DIO_WritePin                                      obj\Debug\Mcal\DIO\DIO_Program.o
+                                                  obj\Debug\Hal\LED\Led_Program.o
+                                                  obj\Debug\Hal\LCD\LCD_Program.o
+                                                  obj\Debug\Hal\Buzzer\Buzzer_Program.o
+                                                  obj\Debug\Hal\Button\Button_Program.o
+EXTI_Disable                                      obj\Debug\Mcal\EXTI\EXTI_Program.o
+EXTI_Init                                         obj\Debug\Mcal\EXTI\EXTI_Program.o
+GIE_Disable                                       obj\Debug\Mcal\GIE\GIE_Program.o
+GIE_Enable                                        obj\Debug\Mcal\GIE\GIE_Program.o
+                                                  obj\Debug\main.o
+KPD_GetPressedKey                                 obj\Debug\Hal\KeyPad\KeyPad_Program.o
+KPD_Init                                          obj\Debug\Hal\KeyPad\KeyPad_Program.o
+LCD_Init                                          obj\Debug\Hal\LCD\LCD_Program.o
+LCD_MoveTo                                        obj\Debug\Hal\LCD\LCD_Program.o
+LCD_SendCommand                                   obj\Debug\Hal\LCD\LCD_Program.o
+LCD_StoreSpecialCharacter                         obj\Debug\Hal\LCD\LCD_Program.o
+LCD_WriteCharacter                                obj\Debug\Hal\LCD\LCD_Program.o
+LCD_WriteNumber                                   obj\Debug\Hal\LCD\LCD_Program.o
+LCD_WriteString                                   obj\Debug\Hal\LCD\LCD_Program.o
+Led_Init                                          obj\Debug\Hal\LED\Led_Program.o
+Led_Off                                           obj\Debug\Hal\LED\Led_Program.o
+Led_On                                            obj\Debug\Hal\LED\Led_Program.o
+Led_Toggle                                        obj\Debug\Hal\LED\Led_Program.o
+SSD_DisplayNumber                                 obj\Debug\Hal\Segment\Segment_Program.o
+                                                  obj\Debug\main.o
+SSD_Init                                          obj\Debug\Hal\Segment\Segment_Program.o
+                                                  obj\Debug\main.o
+SSD_Off                                           obj\Debug\Hal\Segment\Segment_Program.o
+T0_GetCounterValue                                obj\Debug\Mcal\Timer0\T0_Program.o
+T0_Init                                           obj\Debug\Mcal\Timer0\T0_Program.o
+                                                  obj\Debug\main.o
+T0_SetCompareCallBack                             obj\Debug\Mcal\Timer0\T0_Program.o
+                                                  obj\Debug\main.o
+T0_SetCompareValue                                obj\Debug\Mcal\Timer0\T0_Program.o
+T0_SetCounterValue                                obj\Debug\Mcal\Timer0\T0_Program.o
+T0_SetOVFCallBack                                 obj\Debug\Mcal\Timer0\T0_Program.o
+T1_DeInit                                         obj\Debug\Mcal\Timer1\T1_Program.o
+T1_DisableInterrupt                               obj\Debug\Mcal\Timer1\T1_Program.o
+T1_EnableInterrupt                                obj\Debug\Mcal\Timer1\T1_Program.o
+T1_GetCompareValue                                obj\Debug\Mcal\Timer1\T1_Program.o
+T1_GetICRValue                                    obj\Debug\Mcal\Timer1\T1_Program.o
+T1_GetTimerValue                                  obj\Debug\Mcal\Timer1\T1_Program.o
+T1_Init                                           obj\Debug\Mcal\Timer1\T1_Program.o
+                                                  obj\Debug\main.o
+T1_InputCaptureNoiseCanceler                      obj\Debug\Mcal\Timer1\T1_Program.o
+T1_SetCallBack                                    obj\Debug\Mcal\Timer1\T1_Program.o
+T1_SetCompareOutputMode                           obj\Debug\Mcal\Timer1\T1_Program.o
+                                                  obj\Debug\main.o
+T1_SetCompareValue                                obj\Debug\Mcal\Timer1\T1_Program.o
+                                                  obj\Debug\main.o
+T1_SetICRValue                                    obj\Debug\Mcal\Timer1\T1_Program.o
+T1_SetInputCaptureEdge                            obj\Debug\Mcal\Timer1\T1_Program.o
+T1_SetTimerValue                                  obj\Debug\Mcal\Timer1\T1_Program.o
+T1_Start                                          obj\Debug\Mcal\Timer1\T1_Program.o
+T1_Stop                                           obj\Debug\Mcal\Timer1\T1_Program.o
+T2_DeInit                                         obj\Debug\Mcal\Timer2\T2_Program.o
+T2_DisableInterrupt                               obj\Debug\Mcal\Timer2\T2_Program.o
+T2_EnableInterrupt                                obj\Debug\Mcal\Timer2\T2_Program.o
+T2_GetCompareValue                                obj\Debug\Mcal\Timer2\T2_Program.o
+T2_GetTimerValue                                  obj\Debug\Mcal\Timer2\T2_Program.o
+T2_Init                                           obj\Debug\Mcal\Timer2\T2_Program.o
+T2_SetCallBack                                    obj\Debug\Mcal\Timer2\T2_Program.o
+T2_SetCompareOutputMode                           obj\Debug\Mcal\Timer2\T2_Program.o
+T2_SetCompareValue                                obj\Debug\Mcal\Timer2\T2_Program.o
+T2_SetTimerValue                                  obj\Debug\Mcal\Timer2\T2_Program.o
+T2_Start                                          obj\Debug\Mcal\Timer2\T2_Program.o
+T2_Stop                                           obj\Debug\Mcal\Timer2\T2_Program.o
+__DATA_REGION_LENGTH__                            C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32.o
+__DATA_REGION_ORIGIN__                            C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32.o
+__EEPROM_REGION_LENGTH__                          C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32.o
+__FUSE_REGION_LENGTH__                            C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32.o
+__TEXT_REGION_LENGTH__                            C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32.o
+__TEXT_REGION_ORIGIN__                            C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32.o
+__bad_interrupt                                   C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32.o
+__bss_end                                         C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_clear_bss.o)
+__bss_start                                       C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_clear_bss.o)
+__cmpsf2                                          C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+__data_end                                        C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_copy_data.o)
+__data_load_start                                 C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_copy_data.o)
+__data_start                                      C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_copy_data.o)
+__divmodsi4                                       C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_divmodsi4.o)
+                                                  obj\Debug\Hal\LCD\LCD_Program.o
+__do_clear_bss                                    C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_clear_bss.o)
+                                                  obj\Debug\Mcal\Timer2\T2_Program.o
+                                                  obj\Debug\Mcal\Timer1\T1_Program.o
+                                                  obj\Debug\Mcal\Timer0\T0_Program.o
+                                                  obj\Debug\main.o
+__do_copy_data                                    C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_copy_data.o)
+                                                  obj\Debug\main.o
+                                                  obj\Debug\Hal\Segment\Segment_Program.o
+__eqsf2                                           C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+__fixunssfsi                                      C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                                                  obj\Debug\Hal\LCD\LCD_Program.o
+__fp_cmp                                          C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+                                                  C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+                                                  C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+__fp_inf                                          C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                                                  C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+__fp_nan                                          C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                                                  C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+__fp_pscA                                         C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                                                  C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+__fp_pscB                                         C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                                                  C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+__fp_round                                        C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                                                  C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+__fp_split3                                       C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                                                  C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+__fp_splitA                                       C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                                                  C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+__fp_szero                                        C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                                                  C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+__fp_zero                                         C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                                                  C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+__fuse                                            obj\Debug\fuse.o
+__gesf2                                           C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+__gtsf2                                           C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+                                                  obj\Debug\Hal\LCD\LCD_Program.o
+__heap_end                                        C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32.o
+__init                                            C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32.o
+__lesf2                                           C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+__ltsf2                                           C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+                                                  obj\Debug\Hal\LCD\LCD_Program.o
+__mulsf3                                          C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                                                  obj\Debug\Hal\LCD\LCD_Program.o
+__mulsf3_pse                                      C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+__mulsf3x                                         C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                                                  C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+__negsi2                                          C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_negsi2.o)
+                                                  C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_divmodsi4.o)
+__nesf2                                           C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+__stack                                           C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32.o
+__udivmodsi4                                      C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_udivmodsi4.o)
+                                                  C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_divmodsi4.o)
+__umulhisi3                                       C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_umulhisi3.o)
+                                                  obj\Debug\main.o
+__vector_1                                        C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32.o
+__vector_10                                       obj\Debug\Mcal\Timer0\T0_Program.o
+                                                  C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32.o
+__vector_11                                       obj\Debug\Mcal\Timer0\T0_Program.o
+                                                  C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32.o
+__vector_12                                       C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32.o
+__vector_13                                       C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32.o
+__vector_14                                       C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32.o
+__vector_15                                       C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32.o
+__vector_16                                       obj\Debug\Mcal\ADC\ADC_Program.o
+                                                  C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32.o
+__vector_17                                       C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32.o
+__vector_18                                       C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32.o
+__vector_19                                       C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32.o
+__vector_2                                        obj\Debug\Mcal\EXTI\EXTI_Program.o
+                                                  C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32.o
+__vector_20                                       C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32.o
+__vector_3                                        C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32.o
+__vector_4                                        obj\Debug\Mcal\Timer2\T2_Program.o
+                                                  C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32.o
+__vector_5                                        obj\Debug\Mcal\Timer2\T2_Program.o
+                                                  C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32.o
+__vector_6                                        obj\Debug\Mcal\Timer1\T1_Program.o
+                                                  C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32.o
+__vector_7                                        obj\Debug\Mcal\Timer1\T1_Program.o
+                                                  C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32.o
+__vector_8                                        obj\Debug\Mcal\Timer1\T1_Program.o
+                                                  C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32.o
+__vector_9                                        obj\Debug\Mcal\Timer1\T1_Program.o
+                                                  C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32.o
+__vector_default                                  C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32.o
+__vectors                                         C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32.o
+_exit                                             C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_exit.o)
+exit                                              C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_exit.o)
+                                                  C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32.o
+main                                              obj\Debug\main.o
+                                                  C:/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32.o

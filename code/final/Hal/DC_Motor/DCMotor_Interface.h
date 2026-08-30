@@ -1,0 +1,5 @@
+#ifndef DC_MOTOR_INTERFACE
+#define DC_MOTOR_INTERFACE
+
+
+#endif /* DC_MOTOR_INTERFACE */
